@@ -1,5 +1,4 @@
-# coder
-<h1 align="center">Nilyr</h1>
+<h1 align="center">Кодерик</h1>
 
 <p align="center">
   <a href="https://github.com/0xc0d3rofficial">
